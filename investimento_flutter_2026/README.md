@@ -74,7 +74,7 @@ Essa imagem é aplicada no fundo da tela com um filtro de cor para melhorar a ap
 1. Instale o **Flutter SDK**.
 2. Abra o projeto no **VS Code**.
 3. Instale as extensões **Flutter** e **Dart**.
-4. No terminal, execute:
+4. No terminal, execute (caso o background não funcione):
 
 ```bash
 flutter pub get
