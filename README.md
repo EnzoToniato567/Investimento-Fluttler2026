@@ -1,4 +1,4 @@
-# Investiment Flutter: Apresentação do app
+# Investimento Flutter: Apresentação do app
 
 Aplicativo Flutter de simulação de investimento, desenvolvido para calcular o montante acumulado com base em aportes mensais, tempo de aplicação e taxa de juros ao mês.
 
